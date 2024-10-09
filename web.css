@@ -1,0 +1,47 @@
+
+body {
+    background: #111871;
+    text-align: left;
+    font-size: large;
+    color: white;
+    font-family: sans-serif;
+}
+
+table {
+    background-color: rgb(74, 177, 218);
+    text-align: center;
+    float: right;
+}
+
+p {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(165, 137, 164);
+}
+
+ul li {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gold;
+}
+
+ol li {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 98, 0);
+}
+
+th {
+    background-color: rgb(98, 0, 255);
+    color: white;
+    font-family: sans-serif;
+}
+
+tr {
+    width: 100%;
+    text-align: start;
+}
+
+input{
+    width: 40%;
+    font-size: 30px;
+
+    }
